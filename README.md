@@ -1,5 +1,6 @@
 The Milk_shake Explorer
-##About
+
+*About
 
 A simple file Explorer using Tkinter in python
 
