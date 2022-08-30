@@ -7,3 +7,4 @@ A simple file Explorer using Tkinter in python
 - The main program
 	**[main.py](main.py)** - contains the main code 
 
+# simple_shell
